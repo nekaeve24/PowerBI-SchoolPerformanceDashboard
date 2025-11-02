@@ -39,7 +39,7 @@ The dashboard analyzes **school attendance and assessment data** to uncover perf
 ---
 
 ## 📂 Files
-📁 [Everett_N_PowerBI_SchoolPerformance](https://github.com/nekaeve24/PowerBI-SchoolPerformanceDashboard/blob/main/Everett_N_PowerBI_SchoolPerformance.pbix)
+📁 [Everett_N_PowerBI_SchoolPerformance](https://drive.google.com/file/d/1NelUbgrHyErp09ZGBnO-wqbRuie1qlHe/view?usp=sharing)
 
 ---
 
