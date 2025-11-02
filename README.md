@@ -46,5 +46,6 @@ The dashboard analyzes **school attendance and assessment data** to uncover perf
 
 ## 📬 Contact
 **Created by:** Neka Everett  
-📧 [neka.everett@gmail.com](mailto:neka.everett@gmail.com)  
+📧 [Email](mailto:neka.everett@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/neka-e-a3443368/)
 💼 [Portfolio Home](https://github.com/YOUR-USERNAME/data-portfolio)
