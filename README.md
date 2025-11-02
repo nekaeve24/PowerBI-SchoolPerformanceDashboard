@@ -39,13 +39,12 @@ The dashboard analyzes **school attendance and assessment data** to uncover perf
 ---
 
 ## 📂 Files
-📁 [Everett_N_PowerBI_SchoolPerformance](https://github.com/nekaeve24/PowerBI-SchoolPerformanceDashboard/blob/main/Everett_N_PowerBI_SchoolPerformance.pbix)  
-(Or upload your .pbix directly if < 25 MB.)
+📁 [Everett_N_PowerBI_SchoolPerformance](https://github.com/nekaeve24/PowerBI-SchoolPerformanceDashboard/blob/main/Everett_N_PowerBI_SchoolPerformance.pbix)
 
 ---
 
 ## 📬 Contact
 **Created by:** Neka Everett  
-📧 [Email](mailto:neka.everett@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/neka-e-a3443368/)
+📧 [Email](mailto:neka.everett@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/neka-e-a3443368/) 
 💼 [Portfolio Home](https://github.com/YOUR-USERNAME/data-portfolio)
