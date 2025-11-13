@@ -25,8 +25,8 @@ It transforms raw education data into actionable insights through Power Query, D
 
 ---
 
-## 📂 Files
-📥 [Download Power BI Dashboard (.pbix)](https://www.dropbox.com/scl/fi/rugvkzvrngol0sc7zkzwh/Everett_N_PowerBI_SchoolPerformance.pbix?rlkey=vaft655xbr6lmrorgxnkjs593&st=llqtzjiy&dl=1)  
+## 📁 Files  
+[⬇️ Download Power BI Dashboard (.pbix)](https://www.dropbox.com/scl/fi/rugvkzvrngol0sc7zkzwh/Everett_N_PowerBI_SchoolPerformance.pbix?rlkey=vaft655xbr6lm...&st=duf6wl2j&dl=1)  
 *(Hosted via Dropbox — direct download enabled)*
 
 ---
