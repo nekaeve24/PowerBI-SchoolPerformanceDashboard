@@ -21,7 +21,7 @@ It transforms raw education data into actionable insights through Power Query, D
 ---
 
 ## 🖼️ Preview
-(Add screenshots or GIFs of your dashboard here once available.)
+![Power BI Dashboard Preview](https://github.com/nekaeve24/PowerBI-SchoolPerformanceDashboard/blob/main/PowerBI_SchoolDashboard_Preview.png)
 
 ---
 
