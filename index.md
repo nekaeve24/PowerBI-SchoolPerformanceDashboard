@@ -1,8 +1,14 @@
+---
+title: "Power BI School Performance Dashboard"
+description: "Interactive Power BI dashboard analyzing school attendance and assessment trends (2018–2021)"
+layout: default
+---
+
 # 📊 Power BI School Performance Dashboard
 
 Welcome! This portfolio showcases my Power BI project analyzing school attendance and assessment trends (2018–2021).
 
-![Power BI Dashboard Preview](https://github.com/nekaeve24/PowerBI-SchoolPerformanceDashboard/blob/main/PowerBI_SchoolDashboard_Preview.png)
+![Power BI Dashboard Preview](/PowerBI_SchoolDashboard_Preview.png)
 
 ---
 
