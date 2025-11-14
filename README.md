@@ -47,7 +47,6 @@ This dashboard demonstrates:
 ---
 
 ## 📬 Contact
-**Created by:** Neka Everett  
-📧 [Email](mailto:neka.everett@gmail.com)  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/neka-e-a3443368/)  
-🏠 [Portfolio Home](https://github.com/nekaeve24/data-portfolio)
+**Created by:** Neka Everett   
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/neka-e-a3443368/)  
+🔗 [Portfolio Home](https://github.com/nekaeve24/data-portfolio)
